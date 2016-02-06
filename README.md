@@ -1,1 +1,1 @@
-# UW Proj BankProgram
+# UW BankProgram
