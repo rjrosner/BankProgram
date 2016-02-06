@@ -1,4 +1,3 @@
-//ROMMEL ROSNER
 
 #include <iostream>
 #include "Account.h"
